@@ -27,7 +27,7 @@ The other prerequisites are:
 These are the steps required to build `rover_mqtt`.
 
     $ git clone https://github.com/polarsys-rover/polarsys-userspace.git
-    $ cd polarsys-userspace
+    $ cd polarsys-userspace/rover_mqtt
     $ ./bootstrap
     $ ./configure
     $ make
